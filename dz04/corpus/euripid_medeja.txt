@@ -1,0 +1,1943 @@
+
+ 
+ Medeja 
+ Euripid 
+   
+ Preveo i komentare napisao: 
+    Koloman Rac 
+ 
+ 
+ Bilješka o autoru 
+ Euripid 
+ (otok Salamina (?), oko 480. pr. Kr. - Aretusa, Makedonija, oko 406. pr. Kr.) 
+   
+ Euripid (grč. Εὐριπίδης) je najmlađi u nizu tri slavna grčka tragičara (nakon Eshila i Sofokla). Orijentiran prema realizmu, prvi je radio psihološku karakterizaciju likova te se smatra tvorcem psihološke drame. 
+   
+   
+ Prema jednoj nepotvrđenoj legendi, rođen je na Salamini upravo na dan velike pomorske bitke protiv Perzijanaca 480. godine pr. Kr, premda drugi izvori njegovo rođenje stavljaju i ranije. Malo se podataka zna o njegovom životu, a sačuvane su i brojne legende, poput one da je svoja djela pisao u "Euripidovoj špilji" na otoku Salamini. Bio je iz bogate i ugledne obitelji, obrazovan, te je među prvima posjedovao privatnu biblioteku knjiga. Nije bio aktivan u politici niti je sudjelovao u političkom životu. Učio je od filozofa Arhelaja, Anaksagore i Sokrata, te je veći dio života proveo baveći se književnim radom i družeći se sa suvremenim državnicima, pjesnicima i filozofima. Smatralo ga se sljedbenikom sofista. 
+ Godine 408 p. n. e. makedonski kralj Arhelaj pozvao ga je, zajedno s ostalim velikim umjetnicima, na svoj dvor u Pelu. U Makedoniji je i umro oko 406 p. n. e. 
+   
+ Dramom  Pelijade  predstavio se atenskoj publici godine 455. p. n. e., dakle godinu dana nakon Eshilove smrti, ali je osvojio treće mjesto što je bio neuspjeh. Prvu pobjedu na dramskim natjecanjima čekao je do 441. p. n. e., kada se natjecao protiv Sofokla koji se predstavio  Antigonom . Nakon toga pobijedio je još tri puta za života i jedanput posmrtno. Posmrtno je pobijedio tetralogijom u kojoj su bile drame  Ifigenija u Aulidi , izgubljena  Alkmeon u Korintu  i  Bakhe , a postavio ju je njegov sin Euripid mlađi. Relativno malen broj pobjeda na dramskim natjecanjima – Eshil je pobijedio 13 puta, a Sofoklo čak 18 - objašnjava se oštrim sukobom Euripidovog realizma i tradicije, što je značajno slabilo utisak koje su njegove predstave ostavljale na onodobnu atensku publiku. Najveći grčki komediograf Aristofan ga je volio ismijavati, osobito u komediji  Žabe , kada Dioniz putuje u Had kako bi vratio Euripida u svijet živih, no bog na kraju nakon pjesničkog natjecanja vraća Eshila. 
+ Suvremenici su mu predbacivali da je uništio tragediju. Svojim realizmom (Sofoklo je za Euripida izjavio da prikazuje ljude onakvima kakvi jesu, dok ih on prikazuje onakvima kakvi bi trebali biti), naročito obradom erotike i prikazom tamne strane ženske čudi, te odmakom i kritikom religije i tradicionalnih vjerovanja, sablažnjavao je suvremenike, pa ga je Aristofan smatrao rušiteljem morala. 
+ Zasluženo priznanje dobio je tek poslije smrti. Zahvaljujući i Aristotelu, koji ga stoljeće kasnije ističe kao najtragičnijeg pjesnika, te Seneki, koji ga je preporučio rimskim tragičarima, Euripidova djela su neprekidno prisutna do danas i smatra ga se jednim od najvećih dramskih pisaca svih vremena. Snažan je njegov utjecaj na atensku novu komediju u 4-3. st. p.n.e, rimsku dramu i francuski klasicizam, a u usporedbi s drugom dvojicom velikih grčkih tragičara njegove drame nam danas djeluju najmodernije. 
+   
+ Kao i ostali dramatičari Euripid preuzima građu iz mitologije. Međutim, on svoje mitske junake i bogove lišava nadnaravne veličine i moći te ih prikazuje kao obične ljude. Oni tako postaju puko dramsko sredstvo. Usredotočivši se na unutrašnja proživljavanja i motive svojih likova, Euripid je promijenio tragediju portretirajući snažne ženske likove nadmoćne muškarcima (Medeja, Hekaba) i likove inteligentnih robova i običnih ljudi. 
+ Sačuvano je 17 od preko devedeset Euripidovih tragedija:  Alkestida, Andromaha, Bakhantice (Bakhe), Elektra, Feničani, Hekaba, Helena, Heraklo, Heraklide, Hiketide, Hipolit, Ifigenija među Taurijcima, Ifigenija u Aulidi, Ijon, Mahniti Heraklo, Medeja, Orest  i  Trojanke . Autorstvo osamnaeste tragedije koju mu pripisuje antička tradicija,  Res , danas se osporava zbog stilskih razlika. Sačuvana je i njegova satirska igra  Kiklop , jedina potpuna satirska igra antičke Grčke. Poznato nam je dakle više Euripidovih drama nego Eshilovih i Sofoklovih zajedno. 
+   
+   
+ Zanimljiv je i način na koji su se Euripidove drame sačuvale do našeg doba. Naime, po sedam danas poznatih Eshilovih i Sofoklovih drama njihova su najpoznatija djela sačuvana prepisivanjem kroz stoljeća, dok su se Euripidove drame sačuvale u rukopisu koji je bio jedan od nekoliko svezaka u kojima su njegova djela bila poredana po alfabetskom redoslijedu, te je sadržao samo one drame čiji naslov počinje grčkim slovima od E (eta) do K (kapa)! Dakle, unatoč činjenici da je zahvaljujući  tome danas poznat velik broj njegovih djela, stjecajem okolnosti poznat nam je samo njihov "slučajni" uzorak. 
+   
+ Uveo je dulji monolog u prologu i sustav  deux ex machina , božanstvo koje nenadano raspleće dramski zaplet spuštanjem na pozornicu uz pomoć posebne naprave. Također je uveo i govor suvremenih ljudi, izbjegavao je suhoparnost, ukrašavanje i apstrakciju. 
+   
+ * * * 
+   
+ Tragedija  Medeja  smatra se za od najboljih Euripidovih ostvarenja. Temelji se na mitu o Jazonu i Medeji, u kojoj pjesnik na uvjerljiv i potresan način piše o ljubavi, strasti, moralnoj odgovornosti i osveti. 
+   
+ Prvi put je izvedena na Dionizijskom natjecanju 431. godine pr. Kr, zajedno s izgubljenim tragedijama  Filoktet  i  Diktis , te satirskom igrom  Terzitove  kćeri, te je dobio treću, posljednju nagradu, što je još jedna potvrda da suvremenici nisu cijenili Euripidova djela. 
+   
+ Naslovni i glavni lik tragedije je čarobnica Medeja, barbarka iz Kolhide, žena nesputane ali i kobne strasti. Priča prati zbivanja nakon Jazonovog i Medejinog dolaska u Korint, odnosno nakon kraja  avantura Argonauta i potrage za zlatnim runom. Karakteristična je pjesnikova slobodna interpretacija i originalna prerada ovog mita, koji je po predaji glasio sasvim drugačije (Medeja nije ubila svoju djecu ili ih je ubila slučajno). Kod Euripida, Medeja se sveti Jazonu zbog nevjere i izdaje ubivši njegovu novu nevjestu, korintskog kralja Kreona, i najstrašnije, zbog osvete, svoje i Jazonove sinove. Na kraju Medeja odlazi u Atenu u kočiji boga sunca Helija (vjerojatno uz korištenje mehaničkog  deus-ex-machina ). 
+   
+ Karakterizacija Medeje usredotočena je na strast, ljubav, te gnjev, bezumnu osvetu  i uništenje. Kroz njezin lik Euripid se dotiče i motiva obespravljenosti žena u grčkom patrijarhalnom društvu, kao i prezira Grka prema barbarima, odnosno ne-Grcima. 
+   
+ 
+   
+ Tekst prema: 
+ 
+ Grčke tragedije ; prev. Koloman Rac, Mladinska knjiga, Ljubljana-Zagreb, 1990. 
+ 
+ 
+ 
+ Impressum 
+ Nakladnik: 
+ Bulaja naklada d.o.o 
+    Radnički dol 8 
+    10000 Zagreb 
+ tel. (besplatni):  0800/285252 
+                          (0800/BULAJA) 
+ info@bulaja.com 
+ www.bulaja.com 
+   
+ Urednik:  Zvonimir Bulaja 
+ Preveo:  Koloman Rac 
+ Dizajn i prijelom:  Bulaja naklada d.o.o. 
+ Tehnička realizacija:  Bulaja naklada d.o.o. 
+ Oblikovanje naslovnice:  Zvonimir Koščak 
+ Za nakladnika:  Zvonimir Bulaja 
+   
+ Pri pripremi ove elektroničke knjige uložen je maksimalni mogući trud i pažnja, te su svi uključeni materijali pažljivo kontrolirani, korigirani i testirani. Međutim,  Bulaja naklada d.o.o.  i autori ne mogu biti odgovorni za bilo kakve štete, izravne i neizravne, prouzročene upotrebom ove elektroničke knjige, odnosno pogreškama u tekstovima (nekompletni, netočni ili oštećeni podaci, greške pri unosu i slično). 
+   
+ Autorska prava na djela Euripidova, kao i na prijevod Kolomana Raca, istekla su, i ona su sada javno dobro koje se nesmetano može kopirati. Međutim, sva autorska prava na opremu knjige (rječnik, napomene, bilješka o piscu...) su pridržana. 
+   
+ ISBN:  978-953-328-081-3 
+ © 2011. Bulaja naklada d.o.o. 
+ 
+ 
+ Bilješke 
+   
+ 
+ 
+ 
+ [1]  Pelija je oca Jasonova svrgao i sam zavladao u Jolku. Kad je Jason odrastao, zaište žezlo očevo. Pelija mu ga obeća ako donese zlatno runo iz Kolhide. Jason krene po nj na "Argu" i prođe Sim­plegadama na Bosporu. Stijene su udarale jedna o drugu, dok nije prošao Jason. Odonda miruju. 
+ 
+ 
+ [2]  Gora u Tesaliji. 
+ 
+ 
+ [3]  Kreont. 
+ 
+ 
+ [4]  Jasona. 
+ 
+ 
+ [5]  Božica pravde. 
+ 
+ 
+ [6]  Božica braka. 
+ 
+ 
+ [7]  Bospor, Carigradski tjesnac. 
+ 
+ 
+ [8]  Božica vračara. 
+ 
+ 
+ [9]  Sisif, lukavi kralj korintski. 
+ 
+ 
+ [10]  Sunce (Helije) otac je oca Medejina. 
+ 
+ 
+ [11]  Zakletve. 
+ 
+ 
+ [12]  Iz Delfa. 
+ 
+ 
+ [13]  Misli sebe. 
+ 
+ 
+ [14]  Hermo. 
+ 
+ 
+ [15]  Atenjani 
+ 
+ 
+ [16]  Iz Jolka u Tesaliji. 
+ 
+ 
+ [17]  Zublje svadbene. 
+ 
+ 
+ [18]  U Ateni. 
+ 
+ 
+ [19]  Žena kralja tebanskoga Atamanta. On odvrže prvu ženu Nefelu, mater Friksa i Hele, i uze Inu. Kad poludje, skoči Ina s djecom svojom u more. 
+ 
+ 
+ [20]  U Tirenskom moru. 
+ 
+ 
+ [21]  U Korintu. 
+ 
+ 
+ [22]  Srda osvetnica. 
+ 
+ 
+ 
+ Sadržaj 
+   
+ PRVI ČIN 
+ DRUGI ČIN 
+ TREĆI ČIN 
+ ČETVRTI ČIN 
+ PETI ČIN 
+   
+ Bilješke 
+ Rječnik 
+ Bilješka o piscu 
+ Impressum 
+ 
+ 
+ LICA 
+   
+ JASON 
+ MEDEJA,  žena Jasonova. 
+ DVA SINČIĆA NJIHOVA 
+ KREONT,  kralj korintski 
+ EGEJ,  kralj atenski 
+ DADILJA MEDEJINA 
+ UČITELJ DJECE MEDEJINE 
+ GLASNIK 
+ ZBOR,  gospođe korintske 
+ 
+ 
+ PRVI ČIN 
+ (Dvor Medejin u Korintu. Izlazi dadilja.) 
+ Dadilja 
+ Ej, brod da "Argo" nije u kraj kolšanski 
+    Poletio sred Simplegada mrkijeh, [1] 
+    Od sjekire da u šumi na Peliju [2] 
+    Bor nije pao nit se vesla mašile 
+    Junaka prvih ruke, štono Peliji 
+    Po zlatno runo krenuše! 
+    Ta gospa mi Medeja ne bi gradu Jolku dospjela, 
+    Nit oka diže niti lica otkida 
+    Sa zemlje, sluša prijatelja utjehu 
+    Koliko stijena kakva ili morski val. 
+    I katkad samo vratom makne prebijelim, 
+    Za ocem dragim sama za se zaplače, 
+    Za domovinom, kućom, što ih izdade 
+    I pođe s mužem, što je sada odbaci. 
+    U nesreći ti jadna spozna, kakva je 
+    Milina s domom se ne rastat očinskim. 
+    Na djecu mrzi, pogled ne veseli je, 
+    A strah me za nju, ne snuje li kakvo zlo, 
+    Jer kivno joj je srce, podnijet neće jad, 
+    Što grdno trpi. Znam ja nju i bojim se: 
+    Bez riječi u kuću će, gdje joj krevet je, 
+    Unići, u srce će rinut oštar mač 
+    Il' kraljevnu će ubit i mladoženju, 
+    A onda će je nesreća još veća snać. 
+    Ta strašna je, pa zavadi l' se tkogod s njom. 
+    Taj neće lako zapjevati s pobjede! 
+   
+ (Dolazi učitelj s djecom.) 
+   
+ Al' evo djece s trkališta, s igre sad! 
+    O jadu nimalo ne slute majčinu, 
+    Jer srce mlado baš tugovat ne mari. 
+   
+   
+ DADILJA. UČITELJ. 
+ Učitelj 
+ Ti - staro blago doma moje gospođe, 
+    Što stojiš tako sama tu pred vratima 
+    I sama sebi tužiš, pričaš nesreću? 
+    Pa kako se Medeji hoće samoj bit? 
+ Dadilja 
+ O Jasonove djece stari vodiču, 
+    Zla sreća gospodara dobru robu je 
+    Bol, bijeda svoja, u srce ti dira ga. 
+    Tolika mene tuga, žalost premori, 
+    Te čežnja nagna me, da amo izađem 
+    I zemlji, nebu jade kažem gospine. 
+ Učitelj 
+ Zar još se jadna ne okani cvila svog? 
+ Dadilja 
+ Eh, kamo sreće! Poče tek, - gdje j' srijeda još? 
+ Učitelj 
+ O lude! - smije l' se gosparu reći to 
+    O nevolji zar ništa ne zna novijoj? 
+ Dadilja 
+ A što je, starče? Kazat to ne krati se! 
+ Učitelj 
+ A - ništa. Žalim, što sam i to reko sad. 
+ Dadilja 
+ Ne taji, tako t' brade, drugi, robinji, 
+    Jer ja ću, ustreba li, mučat o tome. 
+ Učitelj 
+ Čuh nekog, a učinih se, da ne čujem 
+    Baš dođoh kockat se, gdje starci sijedi ti 
+    Sved sjede, do Pirene, svetog izvora, 
+    Iz zemlje, kaže, korintske će istjerat 
+    Sa majkom djecu Kreont, ovog kraja kralj. 
+    A jesu l' te mu riječi prava istina, 
+    To ne znam. Htio bih, da nije tako to. 
+ Dadilja 
+ Zar to će Jason dati da mu djeca sad 
+    Podnesu, ako se i s majkom zavadi? 
+ Učitelj 
+ Rod stari s puta uklanja se novome, - 
+    Pa onaj [3]  ti i nije našem domu sklon. 
+ Dadilja 
+ Ah, propadosmo, privrgnemo l' novo zlo 
+    Tom starom, što iskusali ga nismo još! 
+ Učitelj 
+ Al' ti - ta nije zgodno, da to gospa zna - 
+    De miruj, šuti o tom, što ti rekoh sad! 
+ Dadilja 
+ O djeco, čuste l', kakav vam je otac vaš? 
+    No ne kunem ga - ta gospodar on je moj, - 
+    Al' svojim mislim zao se pokaza on. 
+ Učitelj 
+ Tko smrtan nije takav? Vidje l' istom sad. 
+    Svak sebi više nego bližnjem da voli - 
+    Po pravu jedan, drugi rad dobitka svog? 
+    Zbog braka novog otac tih tu ne ljubi. 
+ Dadilja 
+ Hajd' djeco - sve će biti dobro - u kuću! 
+    A ti ih od majke što dalje drži sad 
+    I nemoj k majci ojađenoj puštat ih! 
+    Već vidjeh, okom ko bik bulji, gleda ih, 
+    Eh, nešto snuje. Gnjeva neće proći se 
+    To dobro znam - dok ne sruši ti na tle kog. 
+    No stiglo to dušmane, a ne drage nam! 
+ (Učitelj ide s djecom u kuću.) 
+ Medeja (u kući) 
+ Oh, nesretne mene! Teških li muka! 
+    Ao meni, ao! Da mi je mrijeti! 
+ Dadilja 
+ To, dječice draga, eto je ono! 
+    Jed u majke kipi, kipi joj srce! 
+    Požur'te se brže u kuću sada 
+    I nemojte blizu, na oči njojzi! 
+    Ne izlaz'te pred nju! Divlje se ćudi 
+    I prirode grozne, okrutne duše 
+    Vi čuvajte pomno! 
+    Ded idite brže, zađite pod krov! 
+    Ta jasno je: vaja oblak se diže, 
+    Doskora će s većim, groznijim bijesom 
+    Provalit oluja. Što će uradit 
+    To žestoko, neumolno joj srce, 
+    Kad boli ga more? 
+ Medeja (u kući) 
+ Aj, aj! Aj, aj! 
+    Ja jadna pretrpjeh, jade pretrpjeh, - 
+    S njih vrijedno se tužit tužnjavom silnom! 
+    O zlosretne majke prokleta djeco, - 
+    Oh, propala s ocem, propao dom sav! 
+ Dadilja 
+ Ao meni, ao! Ao, jadna! 
+    Što očevu grijehu djeca su kriva? 
+    Što na njih mi mrziš? Ajme meni! 
+    Oj djeco, sva dršćem, nad vama zebem! 
+    U kralja se strašna oholost koči, 
+    I rjetko kad sluša, već vlada većinom, 
+    A bijesa se svoga odriče teško. 
+    Po jednakom pravu živjet je bolje. 
+    O da mi je, ako već ne u sjaju, 
+    A ono bar mirno dočekat starost! 
+    Već ime ti umjerenosti sjaji, - 
+    Užitak je umjeren najljepši darak 
+    Smrtniku. Ni jedna prekomjerna sreća 
+    U čovjeka nikad dobro ne čini, 
+    Jer naljuti l' bog se, nevolje teže 
+    Navaljuje na dom 
+   
+ (Zbor dohrli.) 
+   
+   
+ DADILJA, ZBOR 
+ Zborovođa 
+ Glas čula sam ovčas, čula sam viku, 
+    Krik Kolšanke bijedne, - 
+    Još ne smiri se. Al', starice, kaži, - 
+    Ta iz kuće evo s vratima dvojim 
+    Cvil, jauk razabrah, a nikako, žene, 
+    Tog doma mi jadi na radost nisu, 
+    Jer ona baš srcu omilje mome. 
+ Dadilja 
+ Ah, doma ti nema, - nesta ga veće! 
+    Njeg [4]  druga ti ljuba, kraljevna, grli, 
+    A gospođi žiće u odaji vene. 
+    Ni jednom ti riječcom, utjehom milom, 
+    Sad ne mogu srca utješit priji. 
+ Medeja (iz kuće) 
+ Aj, aj! 
+    Oh, strijela da s neba mi projuri glavom! 
+    Od kakve je meni još koristi život? 
+    Uh, uh! Sa životom da mi se mrskim 
+    Već rastati, kraj mu učiniti smrću! 
+ Zbor 
+ Da l' čuješ, Zeuse, zemljo, svijetlo, 
+    Jauk? Nesretnica mlada 
+    Plače, cvili. 
+    Kakva nezasitna čežnja 
+    Za mužem te, ludo, mori, 
+    A uskorit smrt će tebi? 
+    To mi nemoj molit! 
+    Ako muž ti voli 
+    Zaručnicu novu, 
+    Nemoj na nj se za to ljutit, - 
+    S tobom to će Zeus osvetit! 
+    Za dragim nemoj tužit, žalit odviše! 
+ Medeja 
+ Oj Temido silna, [5]  Artemido časna, [6] 
+    Da l' vidite patnje, što patim, a zakleh 
+    Svog prokletog muža zakletvom strašnom? 
+    Oh, da mi je jednom ugledat njega 
+    I njegovu mladu satrte s domom, 
+    Kad krivicu meni drzli se činit! 
+    O oče, o grade, - zapustih vas grdno 
+    I rođenog brata svoga pogubih! 
+ Dadilja 
+ Eh, čujete l', kako nariče, zove 
+    Na osvetu Temidu i boga Zeusa, 
+    Kog ljudi čuvarom zakletve drže? 
+    Ne, neće ti nikad osveta mala 
+    Utažiti jeda gospođi mojoj! 
+ Zbor 
+ Ah, kada bi na oči nam došla 
+    I iz usta riječ nam milu 
+    Razabrala, 
+    Ne bi l' srdžbu ljutu, tešku, 
+    Naglo srce obuzdala! 
+    Ne ponestalo mi volje 
+    Za mile mi moje! 
+    Ali po nju idi, 
+    Iz kuće dovedi amo, 
+    Zbori njojzi riječi mile! 
+    Žur'se, zla dok ona svojim 
+    Ne učini, jer silno nju ti hvata bol. 
+ Dadilja 
+ Učinit ću, ali strah me je, hoću l' 
+    Ja gospođu sklonit. 
+    No tebi ću za volju trudom se trudit. 
+    Ko lavica okom, kad okoti, sijeva, 
+    U robove bulji, kad priđe joj koji 
+    I izusti u blizini gdje rječcu. 
+    Pogriješit mi nećeš, nazoveš li ljude, 
+    Što bijahu nekad, ludam', ne mudrim, 
+    Jer pjesmu su oni za slave sjajne, 
+    Za vesele gozbe, za ručak iznašli, 
+    Da zaslade život slatkijem glasom, 
+    A nitko na svijetu lijeka ne nađe, 
+    Da mrsku nam tugu iz srca kine 
+    Miloglasnim pjevom, žicama zvonkim. 
+    Smrt, nevolja zato bije nam kuće. 
+    Al' dobro bi bilo, pjesma da dušu 
+    Smrtniku nam liječi. Na veseloj časti 
+    Što uludo gosti naprežu grlo? 
+    Ta obilje gozbe već samo po sebi 
+    Slast, radost smrtniku podaje, nudi. 
+   
+ (Ide u kuću.) 
+ 
+ 
+ DRUGI ČIN 
+ Zborovođa 
+ Krik, uzdaha bolnog čula sam jecaj. 
+    I glasno i tužno tuži se, kune 
+    Svog nevjernog muža, mladoženju kletog. 
+    I patnica nedužna Temidu zove, 
+    Kćer Zeusovu, što na zakletve pazi, 
+    A dovede jadnu 
+    U Heladu amo mračnijem morem, 
+    Neprohodnim vratima [7]  pučine slane. 
+   
+ (Izlazi Medeja.) 
+   
+   
+ MEDEJA, ZBOR 
+ Medeja 
+ Korićanke, izađoh evo iz kuće, 
+    Da ne kudite mene. Oholicam', znam, 
+    Svijet mnoge krsti, - jedne, jer se od svijeta 
+    Sveđ kriju, druge, jer se vani kažu vijek, 
+    A nekim nerad, lakoumlje kvari glas. 
+    U ljudskom oku nema suda pravedna. 
+    Još dobro ne znaš srca kome i već ga, 
+    Čim vidiš, mrziš, a ništa ti nije kriv. 
+    Pa tuđin treba da se gradu priljubi, 
+    Al' ne hvalim ni građanina prkosnog, 
+    Što s ludosti je građanima nemio. 
+    Na mene iznenada jad se obori 
+    I pamet uze. Odoh, - čara žiće sad 
+    Već nema, drage, za me, samo želim mrijet. 
+    U kome meni krasna bješe nada sva, 
+    Taj, muž moj, najvećom izađe rđom sad. 
+    Od svega stvora, što imade uma dar, 
+    Mi žene smo stvorenja najnesretnija. 
+    Ta prije sveg nam hrpom blaga kupit je 
+    Svog muža, gospodara primit tijelu svom; 
+    Od onog zla je ovo zlo još bolnije. 
+    A igra jeste sreće, hoće l' dobit zlo 
+    Il' dobro. Razvod braka ženi dika ti 
+    Baš nije, - muža otjerat i ne može. 
+    U nove stupa običaje, zakone. 
+    Stog mora, od kuće li ne zna, biti vrač, 
+    Da znade, s kakvim drugom bračnim živjet će. 
+    Pa ako sretno sve to preturimo mi, 
+    I s nama živi, rado jaram nosi muž, 
+    Tad blaženstvo je život, inače je smrt. 
+    Na svoje kad se čovjek srdi u kući. 
+    Uvani stišat gleda pečat srca svog, - 
+    Il' druga kojeg il' vršnjake potraži. 
+    A nama u dušu je jednu gledat sveđ. 
+    No život, kažu, bez pogibli teče nam 
+    U domu, dok je njima kopljem biti boj. 
+    Al' za te i za mene isto ne vrijedi; 
+    Tvoj ovo grad je, ovo dom je očinski, 
+    Užitak žiću tvome, druga tvojih krug, 
+    A ja sam sama, bez doma, i čovjek moj, 
+    Iz zemlje strane što me trže, gazi me; 
+    Nit majke, brata, roda kakva imam ja, 
+    U nesreći da njima bih zatekla se. 
+    U tebe ovoliko postić rada bih; 
+    Put nađem li il' sredstvo da se osvetim 
+    Svom mužu za zlo ovo, a i onome, 
+    Što kćer mu da, i kćeri, koja pođe za nj, 
+    Daj šuti! Žena j' straha puna inače 
+    I za boj slaba, mača gledat ne može, 
+    Al' dira l' drsko tko u bračni život joj, 
+    Eh, onda srca nema krvi žednijeg! 
+ Zborovođa 
+ Pa hoću. S pravom svetit ćeš se mužu svom, 
+    Medejo! Ne čudim se, što te mori jad. 
+   
+ (Dolazi Kreont s pratnjom.) 
+   
+ Al' eno Kreonta, glavara zemlje nam! 
+    Gle, ide nove naredbe da objavi. 
+   
+   
+ MEDEJA, KREONT, ZBOR 
+ Kreont 
+ Ti - mrka, na svog muža kivna, ljutita 
+    Medejo, seli, bjež' iz zemlje, kažem ti! 
+    I ono dvoje djece uzmi sa sobom 
+    I ne časi mi! Ja to tebi nalažem, 
+    Te ne ću dvoru svome prije vratit se, 
+    Dok preko međa svojih te ne otjeram. 
+ Medeja 
+ Ao, ao! Jadna dokraja sam propala! 
+    Dušmani moji jedra sva razapinju, 
+    Iz bijede meni nema laka izlaza. 
+    No ako se i patim, ipak pitat ću; 
+    Iz zemlje zašto mene goniš, Kreonte? 
+ Kreont 
+ Jer strah me, - u govoru krit to ne treba - 
+    Zlo neko grozno kćeri mi učinit ćeš. 
+    Koješta sluti na to i strah budi taj. 
+    Ti mudra si i vješta kojekakvu zlu, 
+    A ojađena si, jer muža izgubi, 
+    I, čujem, prijetiš - tako meni javljaju - 
+    Da tastu i mladoženju i mladoj ćeš 
+    Zamijesit nešto. Tome ću predusrest ja! 
+    A tebi, ženo, omrznut je bolje mi, 
+    No s blagosti da poslije bolno uzdišem. 
+ Medeja 
+ Uh, uh! 
+    Već često, ne sad prvi put mi, Kreonte, 
+    Um, pamet moja silne jade zadade. 
+    I nikad čovjek, koji mudra glava je, 
+    Mudracim' silnim djecu stvarat ne smije, 
+    Jer mir ti vole, lijenčinam' ih krsti svijet, 
+    U građana im ljutu mržnju jari to, 
+    A iznosiš li novu mudrost ludama, 
+    Tad dangubom ćeš, ne mudracem činit se, 
+    A onim, što se znanjem grade nekakvim, 
+    U gradu smetaš, jer te boljim drži svijet. 
+    A ja sam ti sama takve sreće baš. 
+    Ta - jer sam mudra, jedni na me reže stog, 
+    Ja drugim lijenčina sam, trećim protivno, 
+    A nekim dosadna, ne odveć pametna. 
+    Al' ti se bojiš, na te ruku da ću dić. 
+    No nisam takva, ne boj mi se, Kreonte! 
+    O kralja ne ću se ogriješit nijednog. 
+    Ta što si kriv mi ti? Za onog uda kćer, 
+    Kom srce vuklo te. Al' muža mrzim svog, 
+    A ti to, držim, razborito uradi. 
+    I sada sreći tvojoj ja ne zavidim, 
+    Pa vjenčajte se, uživajte sreću svu, 
+    Al' pustite me tu! Ja makar trpjela 
+    I krivdu, šutjet ću od jačih svladana! 
+ Kreont 
+ Ti krotko zboriš, al' u duši, u srcu 
+    Sve strepim - snuješ meni nekakovo zlo. 
+    Još manje nego prije u te uzdam se, 
+    Jer ženske nagle i muškarca takva se 
+    Baš lakše čuvat no podmukla šutljivca, 
+    Al' napolje što brže, nemoj duljit mi! 
+    To odluka je, i vještine nemaš te, 
+    Da u nas ostaneš ti, moja dušmanko! 
+ Medeja 
+ Ne, nemoj, koljenma i mladom kunem te! 
+ Kreont 
+ Zaludu riječ ti, sklonit nikad ne ćeš me! 
+ Medeja 
+ Pa izgnat ćeš me, molbe mi ne uslišat? 
+ Kreont 
+ Ta ne volim te više no dom rođeni. 
+ Medeja 
+ Oj zavičaju, kako te se sjećam sad! 
+ Kreont 
+ I meni pored djece najdraži je grad. 
+ Medeja 
+ Uh, uh! Koliko li je ljudma ljubav zlo! 
+ Kreont 
+ Već prema tomu, kakva koga snađe kob. 
+ Medeja 
+ Ne smetni, Zeuse, s uma, tko je krivac zlu! 
+ Kreont 
+ Bjež', nosi mi se, ludo! Muka riješi me! 
+ Medeja 
+ Da, ja se mučim, muka tuđih ne trebam. 
+ Kreont 
+ Eh, brzo će te pratnja popast, silom vuć! 
+ Medeja 
+ Ne, nemoj, nego zaklinjem te, Kreonte. 
+ Kreont 
+ Ti, ženo, dodijavat ćeš mi, čini se. 
+ Medeja 
+ Pa bježat ću, al' to te nisam molila! 
+ Kreont 
+ A što se onda kratiš, ne ćeš otale? 
+ Medeja 
+ Još jedan dan mi daj da ovdje ostanem, 
+    Da smislim, kojim putem da se u bijeg dam 
+    I zaklon djeci nađem, kad već otac se 
+    Baš ništa za njih pobrinut ne mari. 
+    De smiluj im se, i ti djeci otac si, 
+    Pa zato srca moraš biti milosna! 
+    A za me, ako bježat moram, nije mi, 
+    No njih ti žalim, što ih stiže nesreća. 
+ Kreont 
+ Ćud moja nipošto ti nije silnička, 
+    Sa dobra srca svog izgubih mnogo već. 
+    Pa i sad, ženo, vidim da pogriješit ću, 
+    Al' opet nek ti bude! Nego kažem ti, 
+    Trak sunca božjeg sine l' sutra na te još 
+    I djecu s ovu stranu međa zemlje nam, 
+    Tad mrijet ćeš! To ti rekoh živu istinu. 
+    Sad, ako ostat moraš, ostaj jedan dan, 
+    Te ne ćeš zla nam činit, kako bojim se. 
+ (Otiđe.) 
+   
+   
+ MEDEJA, ZBOR 
+ Zborovođa 
+ O nesretna ženo, 
+    Ao, ao, jadna sa svojijeh jada! 
+    A kuda ćeš sada? Gdje prijaznu dušu, 
+    Gdje krov ćeš il' zemlju, utočište 
+    U nevolji naći? 
+    U valove burne, u bijedu, Medejo, 
+    Bog strovali tebe. 
+ Medeja 
+ Svud nesreća me bije, tko će poreć to? 
+    Al' neće tako biti, ne vjerujte još! 
+    Još borba čeka teška one mladence, 
+    A oca tasta brige, muke nemale, 
+    Zar ikad, misliš, milo bih mu zborila, 
+    Da korist mi na umu, varka ne bješe? 
+    Nit riječce rekla bih nit ruke takla se! 
+    Al' ludost ti tolika njega zaslijepi, 
+    Te makar me iz zemlje bacit mogo on 
+    I razbit snutke moje, jedan da mi dan 
+    Da ostanem, i ja ću tri dušmana sad 
+    Pogubit: oca, kćer mu i još muža svog. 
+    A za umorstvo imam mnogo načina, 
+    Al' ne znam, drage, kojeg da se mašim ja: 
+    Bi l' dvore nevjestine ja upalila 
+    Il' tiho ušla u dom, gdje joj krevet je. 
+    I oštar mač joj zarinula u srce. 
+    Al' jedno smeta mi, zateku l' oni me 
+    Gdje u kuću se šuljam, snujem tako što, 
+    Tad glavom platit ću, dušmanma bit ću smijeh. 
+    Put ravan najbolji je, njemu vješta sam 
+    Ja najviše, umorit ću ih otrovom. 
+    Pa dobro, 
+    Smrt pokosi ih, koji grad će primit me? 
+    Tko l' u zemlju me, pod krov pustit siguran 
+    I, ko domaćin, tijelo moje braniti? 
+    Tog nema! Kratko vrijeme pričekat ću još, 
+    Ta možda kula mi se jaka ukaže, 
+    Te lukavo ubistva tajom mašim se. 
+    A nagna li me grozna kakva nesreća, 
+    Mač sama zgrabit ću pa, makar da mi mrijet, 
+    Ubijat ću ih, smjelost krajnju kušat ću. 
+    Ne, Hekate [8]  mi gospe što je štujem ja 
+    Nada sve i odabrah sebi za pomoć, 
+    A prebiva u kutu ognjišta mi mog, 
+    Rastužit nitko od njih sebi na radost 
+    Mog srca ne će! Gorak, crn će bit im pir, 
+    A gorko srodstvo i bijeg moj iz zemlje te! 
+    Al' neka! Nemoj štedjet, radi sve, što znaš, 
+    Medejo, savjetuj se, snuj! Strahote se 
+    De mašaj, - junaštva će borba, takma bit! 
+    Bol vidiš svoj? No Sisifovu rodu mi [9] 
+    Ni Jasonovu braku nećeš biti rug 
+    Ti, čedo plemenitog oca i Sunca! [10] 
+    A vješta si! Po prirodi smo žene mi 
+    Za plemenite umjeće nepodobne, 
+    Al' mudre spletkarice svake spletke zle. 
+ (Povuče se u pozadinu.) 
+ Zbor 
+ Svih rijeka se svetih okrenula vrela, 
+    I pravica i sve udara natrag. 
+    Muškarac te vara, u boga nema 
+    Sad vjere ti više! 
+    Okrenut će glas se, moje će žiće 
+    Do dike se popet! 
+    Čast ženskom se rodu primiče veće, 
+    Glas nemili žensku već morit neće. 
+    I stare će pjesme umuknut vila, 
+    O nevjeri mojoj pjevat ne će! 
+    Nam' ne dade lire nit obdari srca 
+    Kralj pjesama Febo: muškom bi rodu, 
+    Božanskijem pjevom 
+    Eh, drukčije moja 
+    Odjeknula pjesma! Mnogo zna dug vijek 
+    O udesu našem i muškome pričat. 
+    Ti doplovi iz dvora očinskoga 
+    S ljubavi mahnita, - na moru stijenama dvjema prođe 
+    I u zemlji tuđoj sad 
+    Dane traješ. Bez muža ti, 
+    Jadna, krevet prazan stoji, 
+    Ko bjegunicu iz zemlje 
+    Grdno gone tebe. 
+    A kletve [11]  svetost ode, stida nema 
+    U nas u Heladi velikoj, - u nebo gore prhnu. 
+    Doma nemaš očinskog, 
+    Bol da tebi, jadna, taži 
+    Domu kraljica ti druga, 
+    Od miline tvoje jača, 
+    Sad na čelo stupi. 
+   
+ (Dolazi Jason.) 
+   
+ MEDEJA, JASON, ZBOR 
+ Jason 
+ Već više puta vidjeh, ne sad prvi put, 
+    Da neizmjerno zlo je divlji srca bijes. 
+    Ta mogla tu si imat kuću, kućište, 
+    Da drage volje slušaš jačih odredbe, 
+    Al' s riječi drskih ti iz zemlje selit ćeš. 
+    A briga mene, zboriš li bez prekida 
+    O Jasonu da rđa on je najgora, 
+    Al' što o porodici reče kraljevskoj, 
+    Bud' sretna, što je izgon za to kazna ti, 
+    A ja sam svagda kralju, kad se srdio, 
+    Gnjev tišao i htio, tu da ostaneš, 
+    Al' ludosti se ne okani, - kraljev rod 
+    Sveđ grdiš, zato ćeš iz zemlje selit sad. 
+    No zato ipak dragih ne odrekoh se, 
+    Već dođoh za te, ženo, evo u brizi, 
+    Bez novca il' inače kako potrebna 
+    Da s djecom ne odeš. Zla mnogo povlači 
+    Bijeg sa sobom. Pa makar na me mrzila. 
+    Zla tebi željet nikad ne bih mogao. 
+ Medeja 
+ Oj rđo jedna! To je dašto najgore, 
+    Što tebi kukavici jezik može reć. 
+    Pa k meni dođe? Dođe li, a mrzak si 
+    I bogu, meni, svemu rodu ljudskome? 
+    To nije smjelost ni junaštvo, svome zlo 
+    Kad radiš i još njemu gledaš u oči, 
+    Već šuga od svih među ljudma najgora, 
+    Da bestidnost! Što dođe, dobro uradi, 
+    Jer kad te izgrdim, a ti se najediš 
+    Zbog grdnje, srcu će mi onda lakše bit. 
+    A prije svega od početka počet ću: 
+    Ja spasoh tebe - to Heleni znadu svi, 
+    Što u brod isti "Argo" se ukrcaše 
+    Kad poslan bi, da ravnaš jarmom bikova, 
+    Što vatrom disahu, i poljem grobnijem 
+    Da siješ. Zmaja, što se ovi mnogoput 
+    Oko runa, suha zlata, te ga čuvaše 
+    Vijek budan, ubih, bijah tebi sunce, spas. 
+    A sama svoga oca, dom svoj odvrgoh, 
+    U Jolk ja s tobom stigoh podno Pelija 
+    Jest, više srce nego razum slušah svoj 
+    I smakoh Peliju, te grozno poginu 
+    Od djece svoje. Svakog straha riješih te. 
+    I to ti ja učinih, grdni čovječe, 
+    A ti me pusti, u nov sada stupi brak, 
+    Prem djece imaš. Da si još bez djece ti, 
+    Oprostit bi se moglo, što zavolje nju. 
+    Al' ode vjera, zakletva, te ne znam ja, 
+    Da l' držiš, bozi stari da ne vladaju 
+    Sad više, već u ljudi vrijedi zakon nov, 
+    Kad svijestan si mi, vjerom da si krenuo. 
+    Ao desne ruke, što je često prihvati! 
+    Ao koljena mi, kako ih se uludo 
+    Ti, rđo, tače, moju nadu prevari! 
+    Ded, kao s prijateljem ja govorit ću, 
+    Al' zar mi se od tebe dobru nadat još? 
+    Al' neka! Pitanjem ćeš izić grdniji. 
+    Pa kamo sad da krenem? Kući očevoj, 
+    S domajom što je izdah tebi za volju? 
+    Il' k jadnim Pelijadam'? Ele, krasna mi 
+    U domu dočeka, kad ubih oca im! 
+    Da tako je: tko kod kuće mi bješe drag, 
+    Zamrzih na nj; kom nisam smjela radit zla, 
+    Za ljubav tebi stvorih mu se dušmankom. 
+    Jest, - za to učini me sretnom, kako je 
+    U Heladi baš malo koja! Divna li 
+    I vjerna muža imam nesretnica ja, 
+    Iz zemlje kadno bježat moram prognana, 
+    Bez druga, sama, a sa samom dječicom! 
+    Ej, krasna li mi prekora mladoženji, 
+    Kad spasiteljka s djecom ti se potuca 
+    Ko prosjaci! O Zeuse, čemu ljudima 
+    Za zlato, je li krivo, stalan poda znak, 
+    A tijelo ljudsko znaka nema nikakva, 
+    Po kojem bi upozno dušu opaku? 
+ Zborovođa 
+ Ah, strast je strašna, liječit ju je teško baš, 
+    Kad drago s dragim ljutu svađu zametne! 
+ Jason 
+ Loš, čini se, govornik biti ne smijem, 
+    Već treba da se, ko na brodu krmar vješt, 
+    Sad krajnjim jedra rubom ljutu udaru, - 
+    Tvog jezika bujici - ženo, izmaknem. 
+    Ja držim - jer se odveć gradiš zaslugom, 
+    Da od bogova i od ljudi samo je 
+    Na putu morem Kipranka mi bila spas. 
+    U tebe um je oštar, al' te mrzi riječ, 
+    Kad kažem, tebe strijelom da neizbježnom 
+    Bog Eros nagna, život da tad spaseš moj. 
+    No odveć natanko ti neću osjeć to. 
+    Ta pomoć tvoja, kakva bila, nije zla. 
+    Al' opet veće primi dobro za spas moj 
+    No dade, kako ću ti to dokazat ja. 
+    Ti prije svega prebivaš u Heladi, 
+    A ne u zemlji divljoj, živjet nauči 
+    Po pravu, zakonu, ne sili surovoj. 
+    Heleni svi za mudrost tvoju znadu sad, 
+    Ti dođe na glas, a da ondje boraviš, 
+    Na kraju svijeta, ne bi tebi spomena! 
+    Ne imao u dome svome zlata ja 
+    Nit pjevat znao ljepše nego Orfej sam, 
+    Kad na glas izić ne bi sreća dala mi! 
+    Toliko rekoh ti o svojim djelima. 
+    Ta ti si takmu riječi prva zavrgla. 
+    A što se na brak kraljevne mi obori, 
+    Dokazat prvo ću, da bijah pametan, 
+    A onda trijezan, najzad - velik prijatelj 
+    I tebi i djeci. Al' samo mirno čuj! 
+    Kad prijeđoh ovamo iz zemlje Jolkije 
+    I mnoge strašne nevolje me pratile, 
+    Tad kakvu sreću bolju naći mogoh ja, 
+    Bjegunac, no se ženi kćerkom kraljevom? 
+    Ne zato, što tvog braka, kako s' izjedaš, 
+    Sit bijah i za ženskom drugom planu strast, 
+    Nit zato, što potomstva više želim ja - 
+    Ta dosta mi se rodi, to se ne tužim, 
+    Već mi da - to je glavno - dobro živimo 
+    I s oskudice ne patimo - bijednu se, 
+    Znam, s puta rado svaki makne prijatelj - 
+    I djecu odgojim svog doma dostojno. 
+    Pa ako tvojoj djeci rodim braće još, 
+    Sve jednako ću voljet, u rod združit ih 
+    I sretno živjet. Tebi djece ne treba, 
+    Do toga mi je, djeca da mi buduća 
+    Toj živoj pomoć budu. Zlo zar smislih to? 
+    Eh, ni ti rekla ne bi, brak da tebe taj 
+    Ne peče. Vi ste takve - sretan dok je brak, 
+    Vi, žene, mislite: imamo sreću svu, 
+    A zadre l' opet u brak kakva nesreća, 
+    Blagodat prva, najljepša je mrska vam. 
+    Potomstvo odrugud bi moro rađat svijet, 
+    A toga roda ženskog ne bi smjelo bit, 
+    Na svijetu onda više ne bi bilo zla. 
+ Zborovođa 
+ O Jasone, baš lijepo govor iskiti, 
+    Al' čini mi se - makar uz nos rekla ti - 
+    Da krivo radiš, kada ženu zapuštaš. 
+ Medeja 
+ Jest, od mnogih se mnogo razlikujem ja. 
+    Tko nepravedan je, a mudro zborit zna, 
+    Taj kaznu baš mi najtežu zaslužuje. 
+    Jer tko se diči, riječma da zna nedjelo 
+    Ukrasit, na zlo brz je, nije razborit. 
+    A tako i ti preda mnom se ne kiti, 
+    Ne gradi vještim! Jedna će te srušiti riječ: 
+    Da nisi rđa, meni otkrit bješe ti, 
+    Pa svadbu slavit, a ne tajit svojima! 
+ Jason 
+ Ah, divno bi podupirala naum moj, 
+    Da prosidbu ti odah, kad mi ne možeš 
+    Ni sada uspreć svoga srca silan gnjev! 
+ Medeja 
+ Al' ne skloni te to, već sa mnom, s barbarkom, 
+    Brak do starosti ne bješe na diku ti! 
+ Jason 
+ Sad dobro znaj: ne uzeh kćeri kraljeve, 
+    Što sad je moja, radi žudnje, ljubavi, 
+    Već jer sam - rekoh to i prije - želio, 
+    Da tebe spasem, djeci braću porodim, 
+    Krv kraljevsku, a svome domu branik čvrst. 
+ Medeja 
+ Oj, bogat me, a tužan život ne stigo 
+    Nit sreća, što bi meni srce kidala! 
+ Jason 
+ Okreni željom, svanut ćeš pametnijom! 
+    Nek dobro ti se bolnim nikad ne vidi, 
+    I dok si sretna, ne smatraj se nesretnom! 
+ Medeja 
+ Da, rugaj se! Ti imaš gdje zaklonit se, 
+    Al' ja iz zemlje ove sama bježat ću. 
+ Jason 
+ To sama izba. Nemoj kriviti drugoga! 
+ Medeja 
+ Po čemu? Ja se vjenčah? Ja te izdadoh? 
+ Jason 
+ Vladarev rod si kletim klela kletvama. 
+ Medeja 
+ Jest, baš sam i tvoj dom ja kletvom proklela. 
+ Jason 
+ Al' o tom više neću s tobom preti se, 
+    No za djecu li želiš ili za bijeg svoj 
+    Od novca moga kakvu primit potporu, 
+    Ti kazuj! Punom rukom podat spreman sam 
+    I znancima poručit, da te pomažu. 
+    A odbiješ li, ženo, ludo radit ćeš. 
+    No prođ' se gnjeva - još ćeš dobit i više. 
+   
+ Medeja 
+ Nit marim ja za znance tvoje niti bih 
+    Od tebe primila što, - nemoj davat nam! 
+    Bez blagoslova dar je od zla čovjeka. 
+ Jason 
+ A bogove ti zovem za svjedoke ja, - 
+    Svud tebi, djeci rad sam ići na ruku, 
+    Al' ne mariš za dobro, prkos odbija 
+    Sad prijatelje, - zato jače žalit ćeš. 
+   
+ (Otide.) 
+   
+ Medeja 
+ Bjež'! Čežnja te za mladom mori ženicom, 
+    Jer dugo - dugo veće bivaš od kuće! 
+    Da, žen' se! Još će - dao bog! - ta ženidba 
+    Bit takva, da ćeš s nje se ljuto pokajat. 
+ Zbor 
+ Kad granice ljubav prijeđe, 
+    Muškarcu dike, hvale već 
+    Ona ne nosi onda, 
+    Svane li Kipranka blago, 
+    Nema druge božice milije od nje. 
+    Na me, Gospo, nikad nemoj 
+    Ti odapet s luka zlatnog 
+    Strijele stalne, - ne kvasi je žudnjom! 
+    Ćudoređe krasilo me, 
+    Dar najljepši sa nebesa! 
+    Nikad nek svadljive strasti, 
+    Razdora vječnog u duši, 
+    Afrodita silna ne raspiri meni! 
+    U tuđi me brak ne svela! 
+    Nek oštrinom uma kroji 
+    Žensko pravo i brak štiti miran! 
+    Domovino, dome mili, 
+    Oh, ne bila bez svog grada! 
+    Ne zadesilo mene žiće teško, 
+    Bijeda krajnja 
+    S tugom i žalošću svom! 
+    Ne doživjela nikad dana toga! 
+    Smrt, da - smrt nek prije skonča mene! 
+    Druge bijede veće ti 
+    Nema no dom svoj gubit. 
+    Vidjesmo, iz usta tuđih 
+    Ne doznasmo glase takve. 
+    U najgroznijem jadu tvome tebe 
+    Ne požali 
+    Ni grad ni prijan jedan. 
+    Mrsko propao tko, ko ključem, srce 
+    Ne otključa širom i druga svog 
+    Štovat ne zna! Taj mi se 
+    Nikada milit ne će. 
+   
+ (Dolazi Egej.) 
+ 
+ 
+ TREĆI ČIN 
+ MEDEJA, EGEJ, ZBOR 
+ Egej 
+ Medejo, zdravo! Ljepšim nitko pozdravom 
+    Svog prijatelja pozdraviti ne može. 
+ Medeja 
+ Zdrav i ti, sine mudrog mi Pandiona, 
+    Oj Egeju! A otkle pade u taj kraj? 
+ Egej 
+ Iz starog dođoh proročišta Febova. [12] 
+ Medeja 
+ Što krenu proročkome svijeta središtu? 
+ Egej 
+ Ta pitah, kako da mi nikne djece rod. 
+ Medeja 
+ Bez djece, tako t' boga, vijek još vjekuješ? 
+ Egej 
+ Bez djece sam po nekoj božjoj sudbini zloj. 
+ Medeja 
+ Da l' imaš ženu il' si samac, neženja? 
+ Egej 
+ Ne oteh ti se bračnom vezu, jarmu ja. 
+ Medeja 
+ Pa što o djeci reče tebi Febo bog? 
+ Egej 
+ Riječ mudriju, no čovjek može shvatiti je. 
+ Medeja 
+ A smijemo li znati božje proroštvo? 
+ Egej 
+ O da i tako treba glave pametne. 
+ Medeja 
+ A što proreče? Reci, ako smijem čut! 
+ Egej 
+ Na mijehu kraja krajnjeg da ne odriješim. 
+ Medeja 
+ Što radi ti je prije, kojem kraju stić? 
+ Egej 
+ Dok ognjištu se očinskome ne vratim. 
+ Medeja 
+ A čemu ti u ovu zemlju doplovi? 
+ Egej 
+ Eh, ima neki Pitej, Trezenije kralj. 
+ Medeja 
+ Sin Pelopov je, duša, kažu pobožna. 
+ Egej 
+ I njemu kazat želim božje proroštvo. 
+ Medeja 
+ Baš mudar čovjek je i riječma takvim vješt. 
+ Egej 
+ A meni najdraži od saveznika svih. 
+ Medeja 
+ Pa dobra t' sreća, našo, što ti želja je! 
+ Egej 
+ A što je tebi oko, lice turobno? 
+ Medeja 
+ Ah, muž mi rđa najgora je, Egeju! 
+ Egej 
+ Što veliš? Jasno dajde otkrij svoj mi bol! 
+ Medeja 
+ Bez krivnje moje Jason krivo radi mi. 
+ Egej 
+ Što uradi? De kaži meni jasnije! 
+ Medeja 
+ U domu nama druga žena vlada sad. 
+ Egej 
+ Na takvo on se drznu djelo, sramotu? 
+ Medeja 
+ Jest, znadi! Mila bijah, sad sam prezrena. 
+ Egej 
+ Zar drugu voli? Il' je mrzak tvoj mu brak? 
+ Medeja 
+ Baš silno voli, vjeru svojim pogazi. 
+ Egej 
+ Nek ide, ako rđa je, kako veliš ti. 
+ Medeja 
+ S kraljima u rod stupit bješe željan on. 
+ Egej 
+ Pa daje l' kćer mu tko? De svrši govor svoj! 
+ Medeja 
+ Jest, Kreont, vladar ove zemlje korintske. 
+ Egej 
+ Oprostit ti je, gospo, što si snuždena. 
+ Medeja 
+ Ah, propadoh! Iz zemlje mene tjeraju. 
+ Egej 
+ Tko? Drugi novi opet pominješ mi jad. 
+ Medeja 
+ Pa Kreont me iz zemlje goni korintske. 
+ Egej 
+ A Jason dopušta? Eh, ni to ne hvalim. 
+ Medeja 
+ Po riječma ne, al' on to želi u srcu. 
+    A tako t' brade tvoje, tvojih koljena, 
+    Gle, molim te i tebi ja se utječem, 
+    Daj smiluj, smiluj na mene se nesretnu 
+    I nemoj da me vidiš samu, izgnanu, 
+    Već u zemlju me primi, u dom, k ognjištu! 
+    Pa zato bozi ispunili želju ti 
+    Za djecom, i sam umro sretan, blažen sav! 
+    Ti ne znaš, kakvo si našašće [13]  našo sad. 
+    Bez djece ne ćeš to ću stvorit biti već, 
+    Plod djece posijat ćeš, takav znadem lijek. 
+ Egej 
+ Rad koječega, gospo, ljubav sam ti tu 
+    Iskazat spreman, prije svega bozima, 
+    A onda djeci, što je nudaš, za volju. 
+    Jer u tom sam ti krajnji baš siromah ja. 
+    Ovako ti je: dođeš li mi u zemlju, 
+    Ko gosta ću te štitit, jer sam pravičan. 
+    Al' gospo, ovoliko naprijed kažem ti: 
+    Iz zemlje ove nisam voljan vodit te, 
+    Al' ako sama jednom dođeš pod krov moj, 
+    Tad sigurna si, nikom predat neću te. 
+    Iz ove zemlje sama kreni, makni se, 
+    Ta i pred strancim' želim biti nedužan. 
+ Medeja 
+ Pa neka! Ako vjeru za to zadaš mi, 
+    Do tebe što je, sve u redu za me je. 
+ Egej 
+ Zar ne uzdaš se? Briga l' kakva mori te? 
+ Medeja 
+ Pa uzdam se, al' dušman dom je Pelijin 
+    I Kreont meni. Vežeš li se kletvom tom, 
+    Tad ne ćeš dati, da iz zemlje vode me. 
+    No riječju li se nagodiš, bez zakletve, 
+    To sprijateljit ćeš se, porukama se 
+    Pokorit možda, jer sam žena slaba ja, 
+    A u njih eno blaga i dvor kraljevski. 
+ Egej 
+ Pokaza u govoru brigu veliku, 
+    Pa ako ti se mili, ne kratim se ja, 
+    Sigurnost to je onda za me najveća. 
+    Jer pred dušmanima imam neki izgovor, 
+    Pa i za te. Kaži boga, kojim ću se klet! 
+ Medeja 
+ De kun' se grudom Zemlje, onda Helijem, 
+    Mog oca ocem, cijeli božji dodaj rod 
+ Egej 
+ Što želiš, što l' ne želiš? Dajde kazuj mi! 
+ Medeja 
+ Iz zemlje svoje da me ne ćeš prognati 
+    Nit ikad dušmaninu, htjedne l' me 
+    Da vodi, drage volje mene predat živ! 
+ Egej 
+ Pa Zemljom, sjajnim Helijevim svijetlom se. 
+    Svim bozim' kunem, da ću tvoju vršit riječ. 
+ Medeja 
+ Stan'! A što onda, ako ne održiš riječ? 
+ Egej 
+ Tad bilo meni kao ljudma bezbožnim! 
+ Medeja 
+ Sad zbogom, sretno putuj! Sve u redu je. 
+    Tvom gradu ja ću brzo stić, kad obavim 
+    Što mislim, kanim i, što želim, postignem. 
+   
+ (Egej odlazi.) 
+   
+ Zborovođa 
+ Pa Majin te sin, [14]  kralj, vodič na putu, 
+    Tvom odveo dvoru! Izvršio ono, 
+    Što imaš na umu, dok hrliš odavde! 
+    O Egeju kralju! 
+    U tebi upoznah čestito srce. 
+   
+   
+ MEDEJA, ZBOR 
+ Medeja 
+ O Zeuse, Zeusa Pravdo, sjaju Helijev, 
+    Dušmane svoje sada, drage, sjajno ću 
+    Pobijedit, ravnim evo putem stupam ja. 
+    Gle nade, platom ću dušmanma platit sad! 
+    Taj čovjek, baš kad krajnja bješe nevolja, 
+    Ko luka željam' mojim, gle, ukaza se. 
+    O nj s krme svoje konop ću privezat ja. 
+    Kad u grad, tvrđu Paladinu prispijem. 
+    A sve ću namjere ja svoje tebi otkriti, 
+    Al' nemoj mislit, da ćeš milu čuti riječ! 
+    Po Jasona ću poslat jednog slugu svog 
+    I molit ću ga, da mi amo dođe on. 
+    Kad dođe, ljupke reči ću mu zboriti 
+    Jest, tako mi se mili, a i dobro je 
+    Da kraljevski je brak, po kojem izda me. 
+    I koristan i razborito zamišljen. 
+    Pa molit ću ga, tu nek djeca ostanu, 
+    Al' pustiti ne ću njih u zemlji dušmanskoj, 
+    Dušmanma da mi moju djecu budu rug, 
+    Već kralju ću na prijevaru pogubit kćer, 
+    Sa darovima ću u rukam' poslat ih, 
+    Nek mole mladu, da ih otud ne goni, 
+    Plašt tanan, vijenac zlatan njojzi poslat ću, 
+    Pa ako primi, nakit metne na tijelo, 
+    Svak grdno mrijet će, tko god mlade takne se. 
+    Da takvim otrovom ću dare nakvasit. 
+    Al' o tom više dalje ja ne govorim. 
+    Kad djela sjetim ti se, što mi radit je, 
+    Sve srce puca mi, ta djecu ubit ću 
+    Ja svoju! Nema toga, tko će spasti ih. 
+    I čitav dom ću zatrt, smrvit Jasonu, 
+    Iz zemlje s drage krvi dječje bježat ću. 
+    Kad drsko djela prokletoga latih se. 
+    Ne mogu, drage, trpjet smijeha dušmanskog. 
+    Nek ide, na što život? Ni domaje već 
+    Ni kuće ni od bijede nemam zaklona. 
+    Pogriješih onda, dom kad pustih očinski, 
+    Helena jednog riječma povjerovah ja! 
+    Al' uz pomoć će božju meni platit to! 
+    Od mene djecu nit će živu vidjet on 
+    Sad ikad više nit će mlada neva mu 
+    Porodit čeda, jer je grdna čeka smrt. 
+    Mrijet mora, mora ona od mog otrova! 
+    Nek nitko me ne drži slabom, plašljivom 
+    Ni krotkom, tihom, sasvim druga sam ti ćud; 
+    Dušmanu kruta, prijatelju prijatna. 
+    Ta život takvih vjenča slava najveća. 
+ Zborovođa 
+ Kad tajnu nama oda, od koristi ti 
+    Ja želim biti, pa jer ljudske zakone 
+    Ja štujem, zato velim ti; ne čini to! 
+ Medeja 
+ No nema druge, praštam tebi riječi te. 
+    Ta ne patiš se tako ljuto, kao ja. 
+ Zborovođa 
+ A svoju djecu, ženo, ti ćeš ubit zar? 
+ Medeja 
+ Jest, tako ujest najjače ću muža svog. 
+ Zborovođa 
+ Al' ti ćeš onda žena bit najbjednija. 
+ Medeja 
+ Pa neka! Suviše je o tom duljit još. 
+ (Dadilji) 
+ Hej, idi i pozovi meni Jasona! 
+    Svud, gdjeno vjere treba, služiš meni ti, 
+    Pa jesi l' sklona gospođi i ženski stvor, 
+    Ti nemoj ništa odat, što nakanih ja! 
+   
+ (Dadilja otiđe.) 
+ Zbor 
+ Erehteja sinci. [15]  vi sretnici stari, 
+    Vi bogova blaženih ogranci pravi, 
+    U svetoj ste, nikad zgaženoj zemlji, 
+    Na cvijeću se mudrosti predične pasli, 
+    Vijek svijetlim ste zrakom kročili divno, 
+    Gdje Pijerke, devet svetijeh Muza, 
+    Harmoniju - kažu - rodiše, plavku. 
+    Tu Kipranka - kažu - iz Kefisa vode, 
+    Iz krasnijeh vala, zahvati kaplju 
+    I dahom vjetrica, lahora ljupka 
+    Tud krajinom dahnu; u vlas je plela 
+    Vijek ružina cvijeta mirisni stručak, 
+    A Erote slala, mudrosti družbu 
+    I raznih vrlina potporu, pomoć. 
+    Pa kako će onda tebe 
+    Svetijeh voda grad 
+    Il' kraj mili milo 
+    U krilo kletu primit, - 
+    Ubicu djece svoje? 
+    Klat - pomisli! - djecu ćeš? 
+    Ne, tako koljena ti - 
+    Mi od srca molimo -Ne ubijaj djece! 
+    Odakle ćeš smjelost, snagu 
+    Ruci il' srcu svom, 
+    Kćerce moja, smoći, 
+    Umorstva se groznog latit? 
+    Kako ćeš okom svrnut 
+    Bez suza na dječju kob? 
+    Al' dječice krvlju ne ćeš, 
+    Pred koljena kad ti padnu, 
+    Ti kruta srca moć 
+    Omastiti ruke! 
+   
+ (Dolazi Jason.) 
+ 
+ 
+ ČETVRTI ČIN 
+ MEDEJA, JASON, ZBOR 
+ Jason 
+ Na poziv evo me! Pa bila kivna baš, 
+    Od tebe s' odbit ne ću, nego, ženo, daj 
+    Da čujem, što od mene novo tražiš ti! 
+ Medeja 
+ Moj Jasone, de, molim te, oprosti mi 
+    Što rekoh! Pravo je da trpiš moj mi gnjev, 
+    Kad mnogu tebi ljubav baš iskazah ja. 
+    U sebi sama uzeh misli prevrtat, 
+    Izgrdih sebe: "Strašna! Čemu mahnitam 
+    I jedim se, a dobro meni svjetuju, 
+    I mrazim se s gospodom kraja ovoga 
+    I s mužem, koji po nas misli najbolje, 
+    Kad uze kraljevnu i braću djeci mi 
+    On rađa? Neću li se gnjeva proći svog? 
+    A što se kinjim, kad mi dobro daje bog? 
+    Zar djece nemam? Ne znam, da bjegunci smo [16] 
+    I sami bez svakoga prijatelja svog?" 
+    Jest, tako mislih i razabrah, da je moj 
+    Nerazbor velik, da se jedim ni za što. 
+    Sad hvalim tebe, vidim da si pametan, 
+    Kad rod nam steče takav, a ja bezumna, 
+    Jer meni bješe tvom pomagat naumu 
+    I s tobom truditi se, sklopiti bračni vez 
+    I zaručnicu ti s veseljem milovat. 
+    Al' takve smo već - ne ću kazat ništa zlo 
+    Mi žene. Zato žao za sramotu mi 
+    Ti vratiti nemoj, ni ludost ludošću 
+    Pobijat. Popuštam i velim: onda sam 
+    Zlo sudila, al' sad sam bolje smislila. 
+   
+ (Zove djecu.) 
+   
+ O djeco, amo, djeco, kuću ostav'te 
+    Izađite i zagrlite oca svog 
+    I pozdrav'te ga sa mnom! 
+   
+ (Dolaze djeca.) 
+   
+ Mržnje stare se 
+    Na svoje mile s majkom skupa prođite! 
+    Sad mir je u nas, srdžba sva se smirila. 
+    Pa prihvatite desnicu - oh nesreće! 
+    Ah, neka tajna meni na um pada sad! 
+    O djeco, hoćete l' i živa dugo još 
+    Ovako pružat milu, dragu ručicu? 
+    O jadna ja! Oh, kako na plač brza sam 
+    I puna zebnje! Jer spor s ocem napokon 
+    Sad minu, suza lice nježno natopi. 
+ Zborovođa 
+ I meni krupna suza skoči na oči, 
+    Ej, bijeda ne porasla veća no je sad! 
+ Jason 
+ To, ženo moja, hvalim, ono ne kudim. 
+    Ta prirodno je, žensko srce na muža 
+    Da plane, drugu kada stane snubit on. 
+    No srce tvoje k boljemu se okrenu. 
+    Ti svjet bolji spozna ipak napokon! 
+    Jest, tako dolikuje ženi razumnoj. 
+    A za vas, djeco moja, s božjom pomoći 
+    Svom brigom otac od srca se pobrinu. 
+    Ta mislim, da ćete u zemlji korintskoj 
+    Vi prvo mjesto uz braću zapremit još. 
+    Pa rastite! A ostalo je ocu vam 
+    I onom bogu, što nam sklon je, na brizi. 
+    A vidio vas lijepo odgojene ja 
+    U jeku punom, jače od dušmana, svih! 
+    A ti - zašt' bijelo lice svoje odvrati 
+    I oči svoje bujnim kvasiš suzama 
+    I riječi ove ne slušaš mi s radošću? 
+ Medeja 
+ A - ništa. Na pameti su mi djeca ta. 
+ Jason 
+ Ma ne boj se! Ta dobro za njih skrbit ću. 
+ Medeja 
+ Da, tako ću. O riječma sumnjat ne ću ti. 
+    Al' ženska ti je meka, za plač stvorena. 
+ Jason 
+ A što mi, jadna, radi djece uzdišeš? 
+ Medeja 
+ Ah, moja su! Kad život ti zaželje im, 
+    Tad obuzme me tuga, hoće l' zbit se to. 
+    No zašto pozvah tebe ja na razgovor, 
+    To rekoh, a drugo ću tebi reći sad. 
+    Kad mene otpravit iz zemlje misli kralj, 
+    I za me to je - dobro vidim - najbolje, 
+    Da nisam tebi ni glavarim' zemlje te 
+    Na putu, i kad drže, da sam domu im 
+    Ja dušmanka, iz ovog kraja bježat ću, 
+    Al' moli Kreonta, nek djece ne goni 
+    Iz zemlje, da ih tvoja ruka othrani! 
+ Jason 
+ Eh, ne znam, hoću li ga sklonit. Kušat ću. 
+ Medeja 
+ A ti de reci ljubi svojoj, oca svog 
+    Nek moli, da iz zemlje djecu ne tjera! 
+ Jason 
+ Jest, hoću, pa i mislim, sklonit ću je ja, - 
+    Da, ako je, ko žene što su ostale. 
+ Medeja 
+ I ja ću u tom trudu ići ti na ruku. 
+    Ta poslat ću joj dare, što na svijetu se 
+    Od svega, znam ja, najljepšima drže sad: 
+    Plašt tanahan i k tomu vijenac od zlata, 
+    A nosit će joj djeca. Ali brže mi 
+    Donesi nakit amo koja sluškinja! 
+    I ne će sreću jednu, nego stostruku 
+    Uživat, jer će imat tebe za muža 
+    Junaka prvog, pa još nakit, što ga da 
+    Mog oca otac Helije potomstvu svom. 
+   
+ (Sluškinja donese nakit.) 
+   
+ Dar vjenčani ded prim'te, djeco, u ruke 
+    I kraljici ga, sretnoj mladoj, nosite 
+    I dajte! Daru prigovorit neće moć. 
+ Jason 
+ Što sebi, ludice, iz ruku kidaš to? 
+    Zar misliš: nema halja kuća kraljevska? 
+    Il' zlata, - misliš? Čuvaj ovo, ne davaj! 
+    Ta ženi ako svojoj nešto vrijedim ja, 
+    Znam stalno, voljet će me nego blago sve. 
+ Medeja 
+ Ma nemoj! Dar ti, kažu, smekša i boga. 
+    Ta zlato jače je no tisuć' razloga. 
+    Nju sreća prati, bog sad sipa blagoslov, - 
+    I kraljica je mlada, a rad izgona 
+    Krv za djecu, ne zlato samo dala bih. 
+    Al', djeco, u dvor uđ'te sjajni, mladoj se 
+    Svog oca, mojoj gospođi, zatecite 
+    Pa dajte nakit, nek ukine 
+    Vaš izgon! Pazite mi na to najviše, 
+    Da svojoj rukom ove primi darove! 
+    Požur'te se! Izvrš'te sretno, dobar glas 
+    Dones'te majci da se želja ispuni! 
+   
+ (Jason otide s djecom.) 
+   
+ Zbor 
+ Sad za život djece nemam nade više - 
+    Nemam više, u smrt veće idu ona. 
+    Od zlata će vijenac mlada primit sada, 
+    Primit bijedu nesretnica, 
+    Oko kose plave nakit - smrt će savit 
+    Sama rukom svojom. 
+    Nju milina i božanski sjaj će smamit, - 
+    Halju će i vijenac na se zlatni stavit, 
+    Za dan vjenčan u donjem se svijetu kitit! 
+    U mrežu će takvu jadna, - 
+    U smrt, njojzi sudbom dosuđenu, pasti, 
+    Bijedi uteć ne će. 
+    A ti mi, jadni, kralja zete, Zaručniče bijedni, 
+    Žiću djece svoje 
+    Propast prijeku eno nosiš i smrt mrsku 
+    Ljubi svojoj, a ne slutiš! 
+    Nesretniče, - sreća minu tebe! 
+    I tvoje žalim bole, jade, 
+    Jadna, tužna majko, - 
+    Radi svadbe, braka 
+    Ti ćeš djece svoje krvcu sada prolit, 
+    Jer bezakono te pusti 
+    I drugoj se ljubi muž tvoj skloni. 
+   
+ (Dolazi učitelj s djecom.) 
+   
+   
+ MEDEJA, UČITELJ, ZBOR 
+ Učitelj 
+ O gospo, izgon djeci ti je oprošten. 
+    S veseljem dare primi mlada, kraljevna 
+    U svoje ruke, - odande je djeci mir. 
+    Gle! 
+    Što stojiš sva smetena, kad ti radost sja? 
+    Što obraz svoj od mene sada odvrati 
+    I ne slušaš sad vijesti moje s radošću? 
+ Medeja 
+ Kuku! 
+ Učitelj 
+ Al' tako što se s mojom viješću ne slaže. 
+ Medeja 
+ Kuku! i opet. 
+ Učitelj 
+ Nesreću li javljam ja, 
+    A ne znam? Dobar glas mi bješe puki san? 
+ Medeja 
+ Što javi, javi. Za to ja te ne kudim. 
+ Učitelj 
+ Što oči obori i suze roniš sad? 
+ Medeja 
+ Eh, nema druge, starče! Bozi tako što 
+    I opako mi srce smisli, zasnova. 
+ Učitelj 
+ Ne kloni! Još ćeš ti po djecu vratit se. 
+ Medeja 
+ Al' prije otpravit ću druge jadna ja! 
+ Učitelj 
+ Od djece svoje ne dijeliš se samo ti, 
+    Smrtniku valja mirno snosit nezgode. 
+ Medeja 
+ Da, tako ću. Al' deder idi u kuću 
+    I radi s djecom, što već moraš svaki dan! 
+    Oh, djeco, djeco, grad imate i dom sad, 
+    Gdje bez matere vijekom ćete boravit, 
+    I mene ćete nesretnicu ostavit. 
+    A ja ću, prije no se naradujem vam 
+    I sretne vidim vas, pa svadbu, ženu vam 
+    I bračni spremim krevet, zublje [17]  podignem, 
+    U izgon, u kraj drugi poći odavde. 
+    Ah, teško meni jadnoj s mojeg prkosa! 
+    Zaludu dakle, djeco, ja othranih vas, 
+    Zaludu trudih se i mukam' namučih 
+    I ljute bole podnijeh, kada rađah vas. 
+    Jest, mnogu nekad nadu gajih kukava, 
+    Da u starosti mojoj ćete hranit me, 
+    A mrtvu lijepo rukama sahraniti, 
+    Te svijet će zavidjet mi. Ali ode sad 
+    Sva briga slatka. Život odsad tužan ću 
+    I za se bolan bez vas vijek provodit ja. 
+    A majke više milim gledat očima 
+    Vi nećete, - u život ćete drugi poć. 
+    A joj! O djeco, što me tako gledate? 
+    Što smiješkom mi se zadnji put sad smiješite? 
+    Aj, aj! A što ću? Snaga meni ode sva, 
+    Kad, žene, sjajno oko dječje pogledah! 
+    Ne mogu! Zbogom, odluke mi pređašnje! 
+    Iz zemlje ove djecu svoju povest ću. 
+    Pa čemu oca da im jadma njihovim 
+    Rastužujem, a dvaput da toliko zla 
+    Ja sama trpim? Na ću! Zbogom, odluke! 
+    A što je sa mnom? Hoću l' da se obrukam, 
+    Bez osvete dušmane svoje da pustim? 
+    Odvažit mi se. Kukava li srca mog, 
+    Kad ono mi se rječma preda mekima! 
+    Al' id'te, djeco, u kuću! A kome sad 
+    Pribivat žrtvi mojoj nije slobodno, 
+    Nek ukloni se! Ruka neće klonut mi. 
+    Ah, ah! 
+    Ne, nemoj, srce moje, nemoj činit to! 
+    Daj, jadno, pusti ih, - poštedi dječicu! 
+    Da, ondje [18]  sa mnom živjet će, veselit me. 
+    Al' Hadovih mi osvetnika podzemnih, 
+    Lje nikad to bit neće, - pustit neću ja 
+    Dušmanma djecu, da ih oni zlostave! 
+    Zacijelo mrijeti moraju; - kad moraju, 
+    A ono ja ću ubit, majka njihova! 
+    Zacijelo će se to izvršit, minut ih 
+    Lje neće! Već na glavi stoji vijenac sad, 
+    U halji - stalno znam - mre mlada, kraljica. 
+    Gle, idem na put težak, još na teži ću 
+    Ja poslat ove. S djecom svojom želim se 
+    Oprostit. Dajte, djeco, dajte materi 
+    Tu desničicu svoju, da je izljubim! 
+    Oj ručice mi draga, draga glavice, 
+    Oj plemenito dječje lice, obličje! 
+    Ah, budite mi sretni - tamo! Ovdje vam 
+    Sve ote otac. Slatki zagrljaju ti, 
+    Oj tijelce nježno, dječji dašku preslatki! 
+    Ded id'te! id'te! Više ja ne mogu vas 
+    Da gledam, jadi moji mene srvaše! 
+    Jest, znam ja, kakvo mislim zlo počinit sad 
+    Al, strast je jača nego što je razbor moj, 
+    Smrtniku ona uzrok zlu je najvećem. 
+   
+ (Učitelj ide s djecom u kuću.) 
+ Zbor 
+ Već puno se puta 
+    U umnije misli duhom zavezoh, 
+    Zamašniju zavrgoh prepirku, takmu, 
+    No ženskome to se dopušta rodu. 
+    Al' ima i u nas zanosa takva, - 
+    Od želje za znanjem rađa se, javlja, 
+    No ne baš u sviju. Malo je koja - 
+    Tek jednu ćeš možda med stotinam' naći - 
+    U ženskome rodu Muzama sklona. 
+    I velim, da ljudi, što braka ne znadu 
+    I nikada djece rodili nisu. 
+    Do veće se sreće redovno vinu 
+    No oni sa djecom. 
+    Tko djeteta nema, ne iskusi nikad, 
+    Da l' radost su djeca il' žalost smrtniku; 
+    Jer nikada on ih imao nije, 
+    To mnoga ga mine nevolja, muka. 
+    A u kome domu podmladak slatki, 
+    Roj dječice raste, njega ti, vidim, 
+    Vijek dovijeka tare vječita briga - 
+    Da, najprije, hoće l' ih lijepo uzgojit 
+    I otkle će onda namaknut imutka; 
+    A trude l' se, muče za rđavu oni 
+    Il' opet za dobru, 
+    To za njih je vazda zastrto tajnom. 
+    A jedna ti - kažem - nevolja najzad 
+    Već treba i čeka svakog smrtnika 
+    U obilju on ti steče imutka, 
+    I mladosti cvijetom procvatu mu djeca 
+    I dobra narastu, al' iako njemu 
+    Ta sreća kad sine, a ono mu djecu 
+    Smrt zgrabi i netragom u Had odnese. 
+    Pa koja li korist od toga nama, 
+    Kad uz druge jade još preljutu tugu, 
+    Bol poradi djece, 
+    Smrtniku jadnom navaljuju' bozi? 
+ Medeja 
+ Već davno, drage, evo čekam konac, kraj 
+    I vrebam, što će ondje zbit se u kući. 
+    Al' eno Jasonova sluge jednoga 
+    Gdje ide amo! Zaduhan je, - vidi se, 
+    Zli neki novi da on nosi nama glas. 
+ 
+ 
+ PETI ČIN 
+ MEDEJA, GLASNIK, ZBOR 
+ Glasnik 
+ Medejo, ti zločinstvo grozno učini! 
+    Bjež', bježi, nemoj prežret lađe krilate 
+    Nit kola, koja putem jure suhijem! 
+ Medeja 
+ Pa čime ja zaslužih, da se u bijeg dam? 
+ Glasnik 
+ Baš ovčas izdahnu nam mlada, kraljica 
+    I Kreont, otac njezin, s tvoga otrova. 
+ Medeja 
+ Riječ divnu reče, - među dobročince ću 
+    I prijatelje svoje odsad brojit te! 
+ Glasnik 
+ Što veliš? Ženo, jesi l' pri pameti ti 
+    Il' luda? Kralju opustoši ognjište 
+    I raduješ se glasu! Nije l' tebe strah? 
+ Medeja 
+ Odvratit i ja na riječ tvoju nešto znam, - 
+    Al' nemoj, dragi, hitjet, nego kaži mi 
+    Smrt njihovu, jer dvaput ćeš toliko nam 
+    Ugodit, ako grdno pokosi ih smrt. 
+ Glasnik 
+ Kad dođe ono dvoje djece, porod tvoj, 
+    Sa ocem i uniđe pod krov nevjesti, 
+    Mi sluge, što nas tvoji jadi boljeli, 
+    Veselimo se, - dvorom mah se širi glas, 
+    Ti i muž da ste stari izgladili spor. 
+    I jedan ruku, drugi plavu glavicu 
+    Toj djeci ljubi, a ja i sam i radostan 
+    Sa djecom u odaje ženske krenem tad. 
+    A gospi, što se mjesto tebe sviđa sad, 
+    Na Jasonu ti milo počivaše gled, 
+    Dok dvoje djece tvoje ne ugleda još, 
+    Al' onda oči svoje stisnu, zaklopi 
+    I bijelo lice svoje od njih odvrati, - 
+    Došašće djece ujede je, a muž tvoj 
+    Gnjev mlade tišat stane, njezin tažit jed. 
+    On reče: "Valjda ne ćeš dragih mrzit mi? 
+    Zar srdžbu ne ćeš pustit, glavu svratiti 
+    I dragim držat, koga drži muž ti tvoj, 
+    Pa dare primit i namolit oca svog, 
+    Da izgon djeci prosti meni za volju?" 
+    A kako vidje nakit, ne odolje mu, 
+    Te mužu sve obreče. A kad nije još 
+    Daleko otac s djecom bio od kuće, 
+    Šarenu halju uzme, njom se ogrne, 
+    Na kovrčice zlatni vijenac postavi, 
+    U svijetlom ogledalcu kosu redi tad 
+    I liku tijela, sjeni pustoj, smješka se. 
+    Sa stolice se diže, trijemom šeta se, 
+    I sitno kroči nožica joj prebijela. 
+    Preko mjere se daru svome raduje, 
+    Na sebi oči svoje pari punoput, 
+    Al' onda - strašna prizora ti na pogled! 
+    Sve boja joj se mijenja, noge klecaju, 
+    Tetura natrag, jedva stigne stolici, 
+    Tu padne prije nego na pod sruši se. 
+    A jedna stara sluškinja ti pomisli, 
+    Da Pana gnjev il' drugog boga shvati je, 
+    I jaukne, - još bijele pjene ne vidje 
+    Gdje navire na usta, zjene prevraća, 
+    U licu svome krvi nema ni kapi. 
+    U lelek, grozan odjek bola, udri tad. 
+    I jedna mahom oca u stan potrči, 
+    A druga skoči brzo po mladoženju, 
+    Da nesreću mu javi mlade nevjeste. 
+    Od trke mnoge, česte cio ječi dom. 
+    Brz trkač već bi, grabeć nogom, pretrčo 
+    U trku trkalištem, meti stigao, - 
+    Sve donda bješe nijema, oči sklopila, 
+    Tad jadna grozno zastenje i prene se. 
+    Jad ončas na nju nasrtaše dvostruki: 
+    Iz vijenca zlatnog, što na glavi bješe joj, 
+    Proždrljiv - čuda! - žarke vatre sukne mlaz, 
+    A tanka, meka halja, tvoje djece dar, 
+    Sa zlosretnice meso kida mekano. 
+    Sa stolice se digne, bježi, gori sva 
+    I amo tamo trese glavom, viticam' 
+    I vijenac zbacit želi, ali zlato se 
+    Ko prikovano drži. Dvaput jače joj, 
+    Dok kosom trese, rasplamsa se plama žar. 
+    I na pod padne, - nevolja je nadrva; 
+    Već osim oca nitko j' ne bi poznao. 
+    Ta ne vidiš joj zjena, s lica nestade 
+    Krasota one, a sa vrha glave joj 
+    Krv kapljam' kaplje, s vatrom žarkom miješa se, 
+    A s kosti meso, kao s luča smole kap, 
+    Sve spada, - tajni otrova ga troši zub. 
+    Uh, prizora li strašna! A svi mrtve boje se 
+    Da dodirnu je, - to nas zla kob nauči. 
+    Al' otac jadnik - zla tog nije slutio - 
+    Uniđe iznenada, k mrtvoj baci se 
+    I mahom zajauka, tijelo zagrli 
+    I ljubi, 'vako zbori: "Kćeri nesretna, 
+    A koji bog te tako grdno uništi? 
+    Tko meni starcu, grobu živom, ote te? 
+    Ao meni! S tobom, dijete, da je meni mrijet!" 
+    A kada jauk se i lelek umiri, 
+    On pridić htjede svoje tijelo staračko, 
+    Al', ko u lovor - grane bršljan, prione 
+    O nj halja tanka, - strašno nasta rvanje. 
+    On uspravit želi svoje koljeno, 
+    Al' ona priteže ga. Silom upne l' se, 
+    Sa kosti meso sebi trga staračko. 
+    I najzad klone, dušu pusti nesretnik, - 
+    Grozoti već odoljet kadar ne bješe. 
+    I mrtvi leže, jedno pokraj drugoga, - 
+    Kći, starac otac. Suze s kobi moraš lit! 
+    A putit tebe nije na pameti mi, - 
+    I sama znat ćeš kazni se izmaknut već. 
+    Već odavno ja držim sjenom ljudski sjaj 
+    I smjelo velim: tko od ljudi gradi se 
+    Mudracem mudrim, misliocem dubokim, 
+    Tog prijekor stigne sa ludosti najveće. 
+    Ta sretan nije čovjek smrtnik nijedan: 
+    U blagu plivaj, - bolje sreće možeš bit 
+    No drugi, ali sretan nikad, nikada! 
+   
+ (Otide.) 
+   
+   
+ MEDEJA, ZBOR 
+ Zborovođa 
+ Božanstvo danom, čini mi se, današnjim 
+    Jad mnogi s pravom navali na Jasona. 
+    O jadna, kako bijedu tvoju žalimo, - 
+    Oh, kćeri Kreontova! K vratim' Hadovim 
+    Ti sađe, a rad Jasonove vjeridbe! 
+ Medeja 
+ Izvršit, drage, brže mislim djelo ja, 
+    Pogubit djecu, iz te zemlje krenut tad. 
+    I neću dangubiti, djece predat ja 
+    Sad tuđoj, bješnjoj ruci, da ih zakolje. 
+    Zacijelo mrijeti moraju, - kad moraju, 
+    A ono ja ću ubit, mati njihova! 
+    Oružaj mi se, srce! Zašto časimo, 
+    Ne izvršimo strašno, nužno djelo zlo? 
+    Ded, jadna ruko moja, zgrabi sada mač, 
+    Ded zgrabi, tužnom žića kraju priđide! 
+    Ne - nemoj klonut, nemoj djece sjetit se, 
+    Oh, kako dragušna su, kako rodi ih! 
+    Bar za dan kratak s uma smetni dječicu, 
+    A onda plači! Ma ih smakla, draga ti 
+    Svjedno bjehu, a ja - žena bijedna sam. 
+   
+ (Otide.) 
+ Zbor 
+ Oj Zemljo! Zrako Sunčeva, 
+    Što svuda sjaš, gle, glete na sablast, 
+    Na ženu, dok na djecu ne digne 
+    Pest, ubojnicu ruku krvavu! 
+    Od tvog su zlatnog koljena 
+    Potekla; a krv božja da gine 
+    Od ljudi - groza je. 
+    Al', sjaju božji, spriječi, zadrž' je! 
+    Odagnaj Srdu jadnu, krvavu 
+    Iz dvora, - zloduh grdni šalje je! 
+    Zaludu rođaj, trudi svi, - 
+    Zar zalud porod mili rodi ti 
+    I Simplegadam' prođe mrkima, 
+    Tim stijenam' neprijaznim, mrskima? 
+    Što, jadna, u srce se bijes 
+    Ušulja tebi, ljubav izmijeni 
+    Ubistvo prokleto? 
+    Kad krv se roda lije na zemlju, 
+    Smrtnika tišti, - na dom od boga 
+    Ubici pada zasluženi jad. 
+   
+ (Čuje se vika djece iz kuće.) 
+ Jedno dijete 
+ Ajme meni! Što ću? Kud da majci pobjegnem? 
+ Drugo dijete 
+ Oh, ne znam, braco dragi - evo ginemo! 
+ Zbor 
+ Čuješ, čuješ li mi djece vrisku? 
+    Ao, jadnice! Oj ženo zlosretna! 
+    Da u dom uđem? Od umorstva spremna sam 
+    Odbranit djecu. 
+ Oboje djece 
+ Pomoz'te, bogova vam! Krajnji jeste čas! 
+    Već u mrežu nas svoju hvata bliski mač. 
+ Zbor 
+ Jadna! Stijena si mi ili gvožđe ti, 
+    Kad djecu, plod svoj što ga rodi, 
+    Baš svojom rukom imaš srca klat! 
+    Tek za jednu - jednu davnu ženu čuh, 
+    Na djecu da dragu ruku podiže, - 
+    Za Inu, [19]  kojoj bozi pamet smutiše, 
+    Kad Hera nju ti ludu pogna od kuće. 
+    I jadna djecu ubi bez srca, 
+    Skoči u more, - 
+    Sa žala morskog nogom ti se otisnu 
+    I s dvoje djece skupa tonu, izdahnu. 
+    Može l' se grozota veća zbiti još? 
+    Ženska bolna bračna ljubavi, 
+    Zla koliko već smrtniku donese! 
+   
+ (Dolazi Jason.) 
+   
+   
+ JASON, ZBOR 
+ Jason 
+ Vi, žene, što stojite ovdje pred kućom, 
+    Unutra da l' je ona grozna zlotvorka - 
+    Medeja il' se bijegom veće otkrala? 
+    Duboko pod zemlju se dolje mora skrit 
+    Il' k nebu se visoko na krilma dić, 
+    Uteći želi l' kazni roda kraljevskog. 
+    Zar uzda se, odavde da će bez kazne 
+    Umaći, a vladare zemlje pogubi? 
+    Al' marim za nju! Samo za djecu me strah! 
+    Njoj svetit će se oni, koje ucvijeli. 
+    A dođoh, život da bar spasem djeci, 
+    Rod, svojta da mi njima što ne učini 
+    Umorstvu kletu, majčinu, za osvetu. 
+ Zborovođa 
+ Eh, ne znaš, dokud u zlo greznu, jadniče, 
+    Oh Jasone! Ma ne bi tako zborio. 
+ Jason 
+ A što je? Zar i mene želi ubit još? 
+ Zborovođa 
+ Smrt djecu pokosi ti s ruke majčine! 
+ Jason 
+ Ajme meni! Što to reče? Ženo, ubi me! 
+ Zborovođa 
+ Znaj, uzmi na um, - djece tvoje nema već! 
+ Jason 
+ Gdje ubi? U kući zar ili vani gdje? 
+ Zborovođa 
+ Otvori vrata, - ugledat ćeš djece krv! 
+ Jason 
+ Odškrin'te sluge, brže bolje vrata mi, 
+    Razval'te ih, da jad svoj vidim dvostruki, 
+    Ah, - mrtve, a njoj za krv da se osvetim! 
+   
+ (Medeja se s mrtvom djecom ukaže u zraku na zmajskim kolima.) 
+   
+   
+ JASON, MEDEJA, ZBOR 
+ Medeja 
+ Što ovo trgaš, kidaš, treseš vratima 
+    I tražiš mrtve, a i mene, - krivca tom? 
+    Okan' se truda! Mene l' treba, kazuj mi, 
+    Što želiš, - rukom ne ćeš me se nikad tać, 
+    Jer takva kola oca otac Helije 
+    Sad daje nam, - od ruke kivne brane nas. 
+ Jason 
+ O gade, ženo na svem svijetu najmrža - 
+    Da, bozim', meni, svemu rodu ljudskome! 
+    Ti, - mati na djecu odolje trgnut mač 
+    I mene upropasti, djece liši me! 
+    To uradi, a sunce, zemlju gledaš još! 
+    Zločinstvo drznu se počinit najveće! 
+    Ej, propala! Sad znadem, - onda bijah lud, 
+    Kad od kuće iz barbarije pod krov svoj 
+    U Heladu povedoh tebe, - grozno zlo, 
+    Uh, izdajicu oca, doma rođenog! 
+    I takva bozi meni dali zloduha! 
+    Ti kod ognjišta ubi brata rođenog, 
+    Tad pope se na "Argo", brod ljepokljuni! 
+    Jest, tako poče, a kad za me uda se 
+    I meni djece rodi, evo ubi ih, 
+    A samo radi kreveta i brata svog! 
+    Eh, Helenke ti nema, što bi ikad se 
+    To drznula, a voljeh tobom ženit se 
+    No njima, - tobom, ženom mrskom, pogubnom, 
+    Jest, lavicom, ne ženom. Ćudi, srca si 
+    Ti krućeg nego ona Skila tirenska! [20] 
+    Al' pregrštima grdnja ujest ne ću te, - 
+    Tolika ti je prirođena bestidnost! 
+    Bjež', krvlju djece okaljana rugobo! 
+    A meni s nesreće je moje stenjat sad, - 
+    Nit mladoj ću se ljubi svojoj radovat, 
+    Nit djeci, što je rodih i othranih ja, 
+    Već zborit neću moći, - više nemam ih! 
+ Medeja 
+ Otegla ja bih odgovorom dugim sad, 
+    Da otac Zeus ne znade, koje dobro ti 
+    Od mene primi, kako li mi uzvrati! 
+    Ti prezre ljubav moju, zato ne smjede 
+    Provodit život blažen, meni smijat se, 
+    Nit smjede bez kazni iz zemlje bacit me 
+    Ta kraljevna ni Kreont, koji kćer ti da. 
+    A ti me zovi, volja li te, lavicom 
+    I Skilom, kojoj tirensko je polje dom, - 
+    Ja u srce te, kako treba, ujedoh. 
+ Jason 
+ Pa sama tuguješ i sa mnom dijeliš jad. 
+ Medeja 
+ Jest, ali bol mi blaži, što te minu smijeh 
+ Jason 
+ Oj djeco, kakva dopade vas nemajka! 
+ Medeja 
+ Oj sinci, kako oca ludost ubi vas! 
+ Jason 
+ Ne, - desnica ih ruka moja ne smaknu! 
+ Medeja 
+ Al' obijest tvoja, tvoja svadba, mladi brak. 
+ Jason 
+ Pa zar rad' braka bješe vrijedno ubit ih? 
+ Medeja 
+ Zar misliš, da za ženu to je malen jad? 
+ Jason 
+ Jest, ako razumna je, - za te sve je zlo. 
+ Medeja 
+ Al' ovih nema više, - to će peći te. 
+ Jason 
+ Al' osvetnici kruti tvojoj glavi su. 
+ Medeja 
+ No bozi znaju, tko je jadu začetnik. 
+ Jason 
+ Da, znaju onu tvoju dušu odvratnu. 
+ Medeja 
+ Pa mrzi me! Riječ tvoja jetka gadi se. 
+ Jason 
+ I tvoja meni, - lak će biti bar rastanak. 
+ Medeja 
+ Što onda hoćeš? I ja želim rastat se. 
+ Jason 
+ Mrtvace daj, da sahranim ih, oplačem! 
+ Medeja 
+ Ne, ne! Sahranit ću ih svojom rukom ja. 
+    Da, - Heri, božici na visu, u gaj ću 
+    Ja odnijet, da mi dušman ih ne pogrdi, 
+    Raskopa grob. U zemlji Sisifovoj [21]  ću 
+    Naredit svetu slavu, žrtve odsad ja, 
+    Za kleto nek umorstvo budu okajne. 
+    A sama u Erehtjevu zemlju ću, 
+    Do Egeja, Pandinova sina, poć, 
+    A ti ćeš, kako liči, grdan grdno mrijet: 
+    Ostatak "Arga" tebi glavu razbit će, 
+    Mog braka će svršetak tebi gorak biti! 
+ Jason 
+ Al' satrla tebe Erinija [22]  djece 
+    I krvava Pravda. 
+ Medeja 
+ Al' koji te bog il' demon sad sluša, 
+    Gdje pogazi vjeru, domaćinu slaga? 
+ Jason 
+ Uh, zlotvorka jedna, djece ubico! 
+ Medeja 
+ Hajd', - kući de idi i ženu sahrani! 
+ Jason 
+ Pa idem, - al' dvoje djece izgubih! 
+ Medeja 
+ Još ne kukaš dosta, - čekajde starost! 
+ Jason 
+ O premila djeco! 
+ Medeja 
+ Da, majci, ne tebi! 
+ Jason 
+ Pa ipak ih ubi? 
+ Medeja 
+ Da rastužim tebe. 
+ Jason 
+ Ao meni! Ustašca draga bih jadan 
+    Poljubiti rado dječici sada! 
+ Medeja 
+ Sad govoriš njima, sada ih ljubiš, 
+    A onda ih gurnu! 
+ Jason 
+ Tako ti boga, 
+    Daj nježnog da tijelca dječjeg se taknem! 
+ Medeja 
+ Ne, ne može biti, - zaludu ti riječi. 
+ Jason 
+ O Zeuse, čuješ li, kako me goni, 
+    I kako od nemani, dječje ubice, - 
+    Od lavice ove stradam i trpim? 
+    A koliko iole smijem i mogu, 
+    Gle, naričem, plačem, bogove zovem, 
+    Svjedoci nek oni sada mi budu, 
+    Da nejačad ubi, a ne daješ meni, 
+    Da mrtvih se taknem, u grob ih legnem. 
+    Oh nikad ih, nikad da rodio nisam 
+    Nit vidio tvojom sad zaklane rukom! 
+   
+ (Nestaje Medeje. Jason odlazi.) 
+ Zborovođa 
+ Na Olimpu mnogo određuje Zeus-bog. 
+    Preko nade će štošta bozi izvršit; 
+    Kad tvrdo se nadaš, izda te nada, 
+    Gdje nade i nema, put nađe božanstvo. 
+    I ovo se sada završi tako. 
+ 
+ 
+ Rječnik 
+ Artemida  - boginja mjeseca i lova (rim. Dijana) 
+ barbarija  - za stare Grke, sve ne-Helen­ske zemlje (Medeja je iz Kolhide) 
+ Delfi  - glasovito starogrčko Apolonovo svetište i proročište u Fokidi pod planinom Parnas 
+ Erehtej  - mitski atenski kralj (Erihtonije), sin Hefesta i Geje, kojemu je posvećen glasoviti hram na Akropoli;  Erehteja sin­ci  - Atenjani;  Erehtjeva zemlja  - Atena 
+ Erinije  - tri boginje osvete (rim. Furije) 
+ Eroti  - pratitelji Erosa, boga ljubavi 
+ Febo  - Apolon, bog ljepote, medicine, glazbe i sunca 
+ gled  - pogled 
+ Helada  - Grčka 
+ Hermo  - Hermes, glasnik bogova, zaštitnik putnika 
+ Jolk  (grč.  Iolkós ) - grad u Tesaliji iz kojega je Jason 
+ Jolkija  - v.  Jolk 
+ Kefis  - rijeka u blizini Delfa, posvećena Haritama, Afroditinim pomoćnicama 
+ Kipranka  - Afrodita, božica ljubavi (rođe­na na otoku Cipru) 
+ Kolhida  - regija i kraljevstvo na Crnom moru i planini Kavkaz (današnja Gruzija), u koju je Jason otplovio brodom Argo i otamo doveo Medeju 
+ Kolšanka  - iz Kolhide (v.);  kolšanski  - kolhidski 
+ Korint  - grad u Grčkoj, na Korintskoj prevlaci između Peloponeza i središnje grčke 
+ Maja  - najstarija Plejada, jedna od sedam Atlantovih i Plioninih kćeri; boginja pla­nina i polja; sa Zeusom rodila Hermesa 
+ odvrći  - odbaciti 
+ Palada  - Atena, božica mudrosti;  Paladina tvrđa  - grad Atena 
+ Pandion  - Pandion II, mitski atenski kralj, Egejev otac 
+ Pelijade  - Pelijeve kćeri 
+ Pelop  - Pelops, kralj Pise na Peloponezu, po kojemu je taj poluotok dobio ime; pre­ko svoga sina Atreja, koji je otac Me­nelaja i Agamemnona, osnivač loze Atrida 
+ Pijerke  - Pieride, vodene nimfe povezane s helikonskim i pirenskim izvorom, tj. Muze 
+ Pitej  - mitski kralj Trezene (v.), Pelopsov sin 
+ Pravda  - božica Temida 
+ preti se  - prepirati se, svađati se 
+ rođaj  - porođaj 
+ Skila  - ili Scila, morska neman koja u uskom tjesnacu zajedno s Haribdom, morskim virom, vreba pomorce 
+ Srda  - v. Erinije 
+ svjet  - savjet 
+ Temida  - ili Temis, božica pravde, kći Geje i Urana, majka Suđenica (Mojra) i Hora 
+ Trezenija  - Trezena, grad u Argolidi (sjeverozapad Peloponeza) 
+ zublja  – baklja 
+ 
+ 
